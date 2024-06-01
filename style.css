@@ -1,0 +1,115 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.contact {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+}
+
+.contact-info img {
+  margin-right: 10px;
+}
+
+.contact-info a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.section-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.details-item {
+  width: 48%;
+}
+
+.details-item h3 {
+  margin-top: 0;
+}
+
+.details-item ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+.details-item ul li {
+  margin-bottom: 5px;
+}
+
+.skills-section {
+  margin-bottom: 20px;
+}
+
+.skills-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.skill {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 48%;
+}
+
+.certifications {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.certifications-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.certification {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.certification-name {
+  font-weight: bold;
+}
+
+.certification-link {
+  text-decoration: none;
+  color: #007bff;
+}
+.address{
+  text-align: center;
+}
